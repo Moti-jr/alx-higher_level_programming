@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-"""
-Contains the class BaseGeometry
-"""
+"""Geomtrt module"""
 
 
 class BaseGeometry:
-    """An empty class"""
+    """empty geomtry module"""
     pass
