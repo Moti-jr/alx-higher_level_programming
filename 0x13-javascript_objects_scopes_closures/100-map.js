@@ -6,4 +6,6 @@ console.log('Initial list:', list);
 
 const newList = list.map((value, index) => value * index);
 
+console.log('Initial List:', initialList);
+
 console.log('New list:', newList);
